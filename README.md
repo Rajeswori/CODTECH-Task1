@@ -1,5 +1,5 @@
  **Name:** RAJESWORI PRADHAN\
- **Company:** CODTECH IT SOLUTIONS\ 
+ **Company:** CODTECH IT SOLUTIONS\
  **ID:** CT08DS1678\
  **Domian:** Frontend Web Development\
  **Duration:** 10th June-10th July 2024\
