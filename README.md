@@ -7,7 +7,8 @@
 
 ##  OVERVIEW OF THE PROJECT
 
-### Project: Personal Portfolio Website
+*Project: Personal Portfolio Website*
+
 ![Screenshot (210)](https://github.com/Rajeswori/CODTECH-Task1/assets/159108922/96b3a745-adc7-4895-90a1-e40343ca8959)
 ![Screenshot (209)](https://github.com/Rajeswori/CODTECH-Task1/assets/159108922/a1d91ced-8066-4eb5-8d9a-2582aaefdbcc)
 
