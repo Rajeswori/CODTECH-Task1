@@ -1,13 +1,15 @@
- **Name:** RAJESWORI PRADHAN
- **Company:** CODTECH IT SOLUTIONS 
- **ID:** CT08DS1678
- **Domian:** Frontend Web Development
- **Duration:** 10Th JUNE 2024 to 10Th JULY 2024
+ **Name:** RAJESWORI PRADHAN\
+ **Company:** CODTECH IT SOLUTIONS\ 
+ **ID:** CT08DS1678\
+ **Domian:** Frontend Web Development\
+ **Duration:** 10th June-10th July 2024\
  **Mentor:** Muzammil
 
 ##  OVERVIEW OF THE PROJECT
 
 ### Project: Personal Portfolio Website
+![Screenshot (210)](https://github.com/Rajeswori/CODTECH-Task1/assets/159108922/96b3a745-adc7-4895-90a1-e40343ca8959)
+![Screenshot (209)](https://github.com/Rajeswori/CODTECH-Task1/assets/159108922/a1d91ced-8066-4eb5-8d9a-2582aaefdbcc)
 
 Welcome to my personal portfolio website, crafted meticulously as a part of my internship project. This website serves as a comprehensive showcase of my skills, achievements, and professional journey.
 
