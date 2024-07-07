@@ -18,18 +18,18 @@ Welcome to my personal portfolio website, crafted meticulously as a part of my i
 - *Blog:* A regularly updated blog where I share my thoughts on industry trends, personal experiences, and technical tutorials.
 - *Contact:* A user-friendly contact form for networking and professional inquiries, along with links to my social media profiles.
 
-### Technical Specifications:
+## Technical Specifications:
 - *HTML:* Used to structure the website content, including text, images, and links. The semantic HTML elements ensure the website is well-organized and accessible.
 - *CSS:* Applied for styling the website, ensuring a clean, modern, and responsive design. CSS techniques such as Flexbox and Grid were utilized for layout management, while animations and transitions enhance user interaction.
 - *JavaScript:* Incorporated to add interactivity and dynamic features. JavaScript functions handle form validations, create interactive image galleries, and implement smooth scrolling and other UI enhancements.
 
-### Visual Elements:
+## Visual Elements:
 - *Image Integration:* Images were added to enhance the visual appeal and effectively showcase my work. 
   - *HTML:* Images were embedded using <img> tags within various sections.
   - *CSS:* Used to style and position the images, maintaining a consistent and attractive layout.
   - *JavaScript:* Implemented for dynamic image galleries, sliders, and hover effects to create an engaging user experience.
 
-### Objective:
+## Objective:
 The primary goal of this portfolio is to effectively communicate my professional identity, demonstrate my technical skills, and provide a platform for potential employers and collaborators to connect with me.
 
 
