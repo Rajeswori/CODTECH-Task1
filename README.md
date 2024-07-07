@@ -11,7 +11,7 @@
 
 Welcome to my personal portfolio website, crafted meticulously as a part of my internship project. This website serves as a comprehensive showcase of my skills, achievements, and professional journey.
 
-## KEY FEATURES:
+## Key Features:
 - *About Me:* A detailed section providing insights into my background, education, and career aspirations.
 - *Projects:* A curated gallery of my significant projects, complete with descriptions, technologies used, and outcomes. 
 - *Resume:* A downloadable version of my up-to-date resume, highlighting my professional experience and qualifications.
