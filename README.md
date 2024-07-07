@@ -5,9 +5,9 @@
 **Duration:** 10Th JUNE 2024 to 10Th JULY 2024
 **Mentor:**
 
-##Overview of the project
+Overview of the project
 
-###Project: Personal Portfolio Website
+Project: Personal Portfolio Website
 
 Welcome to my personal portfolio website, crafted meticulously as a part of my internship project. This website serves as a comprehensive showcase of my skills, achievements, and professional journey.
 
