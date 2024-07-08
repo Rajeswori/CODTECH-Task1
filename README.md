@@ -18,7 +18,6 @@ Welcome to my personal portfolio website, crafted meticulously as a part of my i
 - *About Me:* A detailed section providing insights into my background, education, and career aspirations.
 - *Projects:* A curated gallery of my significant projects, complete with descriptions, technologies used, and outcomes. 
 - *Resume:* A downloadable version of my up-to-date resume, highlighting my professional experience and qualifications.
-- *Blog:* A regularly updated blog where I share my thoughts on industry trends, personal experiences, and technical tutorials.
 - *Contact:* A user-friendly contact form for networking and professional inquiries, along with links to my social media profiles.
 
 ## Technical Specifications:
